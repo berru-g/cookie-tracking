@@ -1,7 +1,7 @@
-// smart-pixel.js - À INTÉGRER DANS LE SITE
+// smart_phpixel/smart-pixel.js
 class SmartPixel {
     constructor() {
-        this.endpoint = 'https://ton-domaine.com/pixel.php';
+        this.endpoint = 'https://tonsite.com/smart_phpixel/pixel.php';
         this.sessionId = this.getSessionId();
         this.trackPageView();
         this.trackClicks();
