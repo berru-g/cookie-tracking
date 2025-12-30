@@ -1,6 +1,6 @@
 <?php
-// pixel.php - PIXEL INTELLIGENT
-require_once 'config.php'; // Chemin à adapter
+// SMART PIXEL : L'analytics sans gafam
+require_once 'config.php'; 
 
 header('Content-Type: image/gif');
 header('Access-Control-Allow-Origin: *');
