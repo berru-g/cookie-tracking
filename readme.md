@@ -10,6 +10,8 @@
 
      En autorisant l'analyse, vous m'aidez à améliorer ce site sans enrichir les GAFAM. C'est ma manière de construire un web plus souverain. 
 
+# [Voir la doc complete](https://gael-berru.com/smart_phpixel/)
+
 ## Install for smart_phpixel/
 
     - bddSQL
